@@ -1,0 +1,9 @@
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4pizza\WindowsFormsApplication4pizza\bin\Debug\WindowsFormsApplication4pizza.exe.config
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4pizza\WindowsFormsApplication4pizza\bin\Debug\WindowsFormsApplication4pizza.exe
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4pizza\WindowsFormsApplication4pizza\bin\Debug\WindowsFormsApplication4pizza.pdb
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4pizza\WindowsFormsApplication4pizza\obj\Debug\WindowsFormsApplication4pizza.csprojResolveAssemblyReference.cache
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4pizza\WindowsFormsApplication4pizza\obj\Debug\WindowsFormsApplication4pizza.Form1.resources
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4pizza\WindowsFormsApplication4pizza\obj\Debug\WindowsFormsApplication4pizza.Properties.Resources.resources
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4pizza\WindowsFormsApplication4pizza\obj\Debug\WindowsFormsApplication4pizza.csproj.GenerateResource.Cache
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4pizza\WindowsFormsApplication4pizza\obj\Debug\WindowsFormsApplication4pizza.exe
+D:\BMU\c#\Proqramlar\WindowsFormsApplication4pizza\WindowsFormsApplication4pizza\obj\Debug\WindowsFormsApplication4pizza.pdb
